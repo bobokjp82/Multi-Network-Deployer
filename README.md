@@ -23,8 +23,7 @@ Fitur utama:
 📦 Cara Install
 
 Clone repo / download script
-git clone https://github.com/username/multi-network-deployer.git
-cd multi-network-deployer
+git clone https://github.com/bobokjp82/Multi-Network-Deployer.git
 
 
 Buat virtual environment (opsional tapi disarankan)
