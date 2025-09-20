@@ -99,7 +99,7 @@ def deploy_contract(w3, chainId, acct, abi, bytecode, nonce=None):
 # ==============================
 def menu_auto_batch():
     clear_screen()
-    print("=== AUTO BATCH DEPLOY ===\n")
+    print("=== AUTO BATCH DEPLOY By=Madeng Kasep ===\n")
 
     n = int(input("Mau deploy berapa kontrak? : ").strip())
 
